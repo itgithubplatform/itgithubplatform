@@ -1,160 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Benu%20Gopal%20Kanjilal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20Engineer%20%7C%20GenAI%20%7C%20Intelligent%20Systems&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Benu%20Gopal%20Kanjilal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Systems;Computer+Vision+%7C+LLMs+%7C+RAG;From+Model+to+Production;Future+Focused+on+Agentic+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI%2FML+Engineer;Full-Stack+Developer;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
-[![LinkedIn](YOUR_LINKEDIN_LINK)]
-[![Email](mailto:YOUR_EMAIL)]
-[![GitHub](https://github.com/YOUR_USERNAME)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](yourlinkedinlink)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0891b2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=0891b2&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<div align="center">
-
-🎓 **B.Tech CSE (AI/ML Focus)**  
+🎓 **B.Tech CSE (AIML)**  
 📍 India  
 
-</div>
-
-- 🤖 Building intelligent AI systems using **TensorFlow, Scikit-Learn & PyTorch**
-- 👁️ Developing CNN-based **Computer Vision applications**
-- 🧠 Designing **LLM & RAG pipelines** using LangChain & Vector Databases
-- ⚙️ Creating AI-powered backend systems using **FastAPI**
-- 🌐 Building structured full-stack logic with **React + Node.js**
-- ☁️ Deploying scalable AI solutions using **Docker & Cloud Platforms**
+- 🤖 Building intelligent systems using **TensorFlow, PyTorch & Scikit-Learn**
+- 🌐 Developing full-stack applications using **MERN Stack**
+- 👁️ Working on **Computer Vision & CNN models**
+- ☁️ Deploying apps on **AWS, Vercel, Render**
+- 🔌 Creating APIs using **Node.js & FastAPI**
+- 🧠 Exploring **LLMs, RAG & AI Agents**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-Python • JavaScript • SQL • C  
+### Programming
+Python • JavaScript • C • SQL
 
-### 🤖 AI / ML
-TensorFlow • Keras • Scikit-Learn • OpenCV  
-LangChain • Ollama • HuggingFace  
-RAG Pipelines • Vector Databases  
+### Frontend
+React • HTML • CSS • Tailwind
 
-### 🌐 Backend & Systems
-FastAPI • Node.js • REST APIs  
-MongoDB • SQLite  
+### Backend
+Node.js • Express • FastAPI • Flask
 
-### ☁️ Cloud & Deployment
-Docker • Render • Railway • Streamlit  
-Git • GitHub Actions  
+### Databases
+MongoDB • MySQL • PostgreSQL • SQLite
 
----
+### AI/ML
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy
 
-## 🚀 Featured Projects
-
-### 🔹 NutriAI
-AI-powered food detection & nutrient prediction system  
-Built with CNN architecture + deployment interface.
-
-### 🔹 CNN-Based Quality Detection
-Deep Learning classification system with performance optimization.
-
-### 🔹 Library Management System
-Full Tkinter + SQLite application with authentication, transaction handling & fine calculation logic.
-
-### 🔹 AI Agent & Automation Experiments
-Exploring LangChain, RAG pipelines & autonomous workflows.
+### Cloud & DevOps
+AWS • Docker • Git • GitHub Actions • Vercel
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<a href="https://github.com/yourgithubusername">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-
-</div>
+<a href="https://github.com/yourgithubusername">
+  <img width="49%" src="https://streak-stats.demolab.com?user=yourgithubusername&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</a>
 
 ---
 
 ## 🎯 Current Focus
 
-<table align="center">
-<tr>
-<td width="50%">
+🔭 Working On:
+- Advanced DL Projects
+- Full-Stack Applications
+- Deployment & DevOps
 
-### 🔭 Working On
-- Applied Deep Learning Systems  
-- AI Product-Oriented Development  
-- RAG-Based Applications  
-- Backend System Design  
-
-</td>
-<td width="50%">
-
-### 🌱 Learning
-- Agentic AI Architectures  
-- MLOps & Deployment Pipelines  
-- Scalable AI SaaS Systems  
-- Advanced Computer Vision  
-
-</td>
-</tr>
-</table>
+🌱 Learning:
+- System Design
+- LLMOPS
+- Generative AI
+- AI Agents
 
 ---
 
 ## 💡 Core Competencies
 
-<div align="center">
-
-| Domain | Skills |
-|--------|--------|
-| **Machine Learning** | Model Training, Optimization, Feature Engineering |
-| **Deep Learning** | CNNs, Transfer Learning, Model Evaluation |
-| **LLMs & GenAI** | RAG, Prompt Engineering, Vector Search |
-| **Backend Systems** | FastAPI, REST APIs, Authentication |
-| **Database Design** | MongoDB, SQLite |
-| **Deployment** | Docker, Cloud Platforms |
-
-</div>
+Machine Learning • Deep Learning • Computer Vision  
+LLMs & RAG • REST APIs • Full-Stack Development  
+Cloud Deployment • Data Analysis  
 
 ---
 
 ## 🌟 Highlights
 
-<div align="center">
-
-| | |
-|---|---|
-| 🤖 AI System Builder | 🚀 Deployment-Focused |
-| 🧠 LLM & RAG Explorer | 💻 Strong Backend Logic |
-| 📊 Data-Driven Thinking | ⚙️ Automation Enthusiast |
-
-</div>
+✨ 10+ ML Projects  
+🚀 Multiple Deployments  
+📊 Strong Data Analysis Skills  
+💻 Full-Stack Development  
 
 ---
 
 ## 📬 Let's Connect
 
-<div align="center">
+💼 Open to Internships, Freelance & Collaborations  
 
-💼 **Open to:** AI Internships • Research Collaboration • GenAI Projects  
-
-[![Email](mailto:YOUR_EMAIL)]
-
-</div>
+[Email](mailto:benugopal2005@gmail.com)  
+[LinkedIn]()  
+[Portfolio](https://yourportfolio.dev)
 
 ---
 
-### ⭐ “Building AI Systems That Move From Model → Product → Impact.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer" width="100%" />
+⚡ *"Consistency beats intensity."*

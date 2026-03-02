@@ -1,38 +1,160 @@
-<h1 align="center">Hi 👋, I'm Benu Gopal Kanjilal</h1>
-<h3 align="center">AI/ML Developer | Full Stack | SQL| Google Cloud | Passionate about Ai powered web apps.</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Benu%20Gopal%20Kanjilal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20Engineer%20%7C%20GenAI%20%7C%20Intelligent%20Systems&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benug25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benug25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benug25) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/benug25) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/benug25) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@benug25) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/benug25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benugopal2005@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Systems;Computer+Vision+%7C+LLMs+%7C+RAG;From+Model+to+Production;Future+Focused+on+Agentic+AI)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itgithubplatform&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itgithubplatform&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itgithubplatform&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](YOUR_LINKEDIN_LINK)]
+[![Email](mailto:YOUR_EMAIL)]
+[![GitHub](https://github.com/YOUR_USERNAME)]
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itgithubplatform&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0891b2&style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itgithubplatform&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itgithubplatform&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
 
-- 🔭 I’m currently working on **An Backend project based on AI chatbot**
+<div align="center">
 
-- 🌱 I’m currently learning **Gen AI on cloud, MLOps and Automation engineering**
+🎓 **B.Tech CSE (AI/ML Focus)**  
+📍 India  
 
-- 💬 Ask me about **Full stack | Python |Machine Learning | Deep Learning | NLP |Gen AI**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gg1_vRDtTI0UsNIeQyyNZ8EF6Eu76ln2/view?usp=sharing](https://drive.google.com/file/d/1Gg1_vRDtTI0UsNIeQyyNZ8EF6Eu76ln2/view?usp=sharing)
+- 🤖 Building intelligent AI systems using **TensorFlow, Scikit-Learn & PyTorch**
+- 👁️ Developing CNN-based **Computer Vision applications**
+- 🧠 Designing **LLM & RAG pipelines** using LangChain & Vector Databases
+- ⚙️ Creating AI-powered backend systems using **FastAPI**
+- 🌐 Building structured full-stack logic with **React + Node.js**
+- ☁️ Deploying scalable AI solutions using **Docker & Cloud Platforms**
 
-- ⚡ Fun fact **I think I am funny – but the compiler disagrees 😅**
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Programming
+Python • JavaScript • SQL • C  
+
+### 🤖 AI / ML
+TensorFlow • Keras • Scikit-Learn • OpenCV  
+LangChain • Ollama • HuggingFace  
+RAG Pipelines • Vector Databases  
+
+### 🌐 Backend & Systems
+FastAPI • Node.js • REST APIs  
+MongoDB • SQLite  
+
+### ☁️ Cloud & Deployment
+Docker • Render • Railway • Streamlit  
+Git • GitHub Actions  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 NutriAI
+AI-powered food detection & nutrient prediction system  
+Built with CNN architecture + deployment interface.
+
+### 🔹 CNN-Based Quality Detection
+Deep Learning classification system with performance optimization.
+
+### 🔹 Library Management System
+Full Tkinter + SQLite application with authentication, transaction handling & fine calculation logic.
+
+### 🔹 AI Agent & Automation Experiments
+Exploring LangChain, RAG pipelines & autonomous workflows.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔭 Working On
+- Applied Deep Learning Systems  
+- AI Product-Oriented Development  
+- RAG-Based Applications  
+- Backend System Design  
+
+</td>
+<td width="50%">
+
+### 🌱 Learning
+- Agentic AI Architectures  
+- MLOps & Deployment Pipelines  
+- Scalable AI SaaS Systems  
+- Advanced Computer Vision  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Core Competencies
+
+<div align="center">
+
+| Domain | Skills |
+|--------|--------|
+| **Machine Learning** | Model Training, Optimization, Feature Engineering |
+| **Deep Learning** | CNNs, Transfer Learning, Model Evaluation |
+| **LLMs & GenAI** | RAG, Prompt Engineering, Vector Search |
+| **Backend Systems** | FastAPI, REST APIs, Authentication |
+| **Database Design** | MongoDB, SQLite |
+| **Deployment** | Docker, Cloud Platforms |
+
+</div>
+
+---
+
+## 🌟 Highlights
+
+<div align="center">
+
+| | |
+|---|---|
+| 🤖 AI System Builder | 🚀 Deployment-Focused |
+| 🧠 LLM & RAG Explorer | 💻 Strong Backend Logic |
+| 📊 Data-Driven Thinking | ⚙️ Automation Enthusiast |
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+💼 **Open to:** AI Internships • Research Collaboration • GenAI Projects  
+
+[![Email](mailto:YOUR_EMAIL)]
+
+</div>
+
+---
+
+### ⭐ “Building AI Systems That Move From Model → Product → Impact.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer" width="100%" />

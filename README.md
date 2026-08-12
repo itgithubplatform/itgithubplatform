@@ -25,23 +25,23 @@
 
 <div align="center">
 
-🎓 **B.Tech CSE (AI/ML)** &nbsp;|&nbsp; 📍 West Bengal, India  
-💼 **Aspiring AI/ML Engineer & Full-Stack Developer**
+🎓 **B.Tech CSE (AIML)** @ The Neotia University *(CGPA: 9.23)* &nbsp;|&nbsp; 📍 West Bengal, India  
+💼 **Aspiring AI & ML Engineer**
 
 </div>
 
 <br>
 
-Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Full-Stack Developer** focused on building **production-grade SaaS AI applications** that bridge cutting-edge artificial intelligence with scalable, enterprise-grade cloud architecture.
+Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Full-Stack Developer** focused on building intelligent, scalable systems and high-impact applications.
 
 ### 🌟 What I Do
 
-- 🚀 **Production-Grade SaaS AI**: Engineering end-to-end AI SaaS platforms featuring persistent vector stores (`pgvector`/`FAISS`), multi-LLM failover routing, and real-time event streaming (`SSE`).
-- 🧠 **Generative AI & Agentic Workflows**: Architecting production RAG pipelines, autonomous AI agents, contextual Q&A engines, and document intelligence with **LangChain, Groq & Ollama**.
-- 🔬 **Explainable AI (XAI) & Computer Vision**: Developing custom deep learning architectures (multi-headed CNNs, EfficientNet) with interpretability for real-world inspection.
-- ⚡ **Scalable Full-Stack Engineering**: Building high-performance, responsive web applications using **Next.js, React, Node.js, Express & FastAPI** with secure authentication.
-- 📊 **Enterprise Observability & Security**: Implementing production-ready distributed monitoring, system tracing, and structured logging with **OpenTelemetry, Prometheus & Pino**.
-- ☁️ **Cloud & MLOps Infrastructure**: Deploying scalable containerized & serverless microservices across **AWS, Docker, Vercel & Railway**.
+- 🎓 **Academic Foundation**: Pursuing B.Tech CSE (AIML) at The Neotia University with a strong **CGPA of 9.23**.
+- 🤖 **AI & ML Engineering**: Aspiring AI & ML Engineer focused on building intelligent, inclusive systems and practical automation solutions.
+- 💡 **Generative AI & Agents**: Hands-on experience with Generative AI, Multi-Agent Systems, Large Language Models (LLMs), and AI-powered workflows.
+- 📱 **Mobile AI Integration**: Android developer actively integrating on-device machine learning capabilities using TensorFlow Lite.
+- 🧾 **Research & Publications**: Author of 2 research papers, including one officially presented at the ISDSI Global Conference.
+- 🏆 **Competitive Innovation**: Active participant in 10+ hackathons and 2+ ideathons focusing on domains like healthcare, education, and career-tech.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

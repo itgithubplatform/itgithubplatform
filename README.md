@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itgithubplatform)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://benugopal.dev/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arpanpramanik2003&color=0891b2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=itgithubplatform&color=0891b2&style=for-the-badge)
 
 </div>
 

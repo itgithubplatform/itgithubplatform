@@ -1,33 +1,343 @@
 <h1 align="center">Hi 👋, I'm Benu Gopal Kanjilal</h1>
-<h3 align="center">Welcome to my GitHub profile!👋 Hello World! I'm Benu Gopal Kanjilal, an aspiring AI/ML Engineer, passionate about crafting intelligent solutions and building impactful projects. Currently pursuing B.Tech in CSE (AIML) at The Neotia University, I enjoy working on Machine Learning and Deep Learning, and I'm always eager to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itgithubplatform&label=Profile%20views&color=0e75b6&style=flat" alt="itgithubplatform" /> </p>
+<h3 align="center">
+AI/ML Engineer • GenAI • Full-Stack Developer • Building Intelligent Systems
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itgithubplatform" alt="itgithubplatform" /></a> </p>
-
-- 🔭 I’m currently working on [AI and web based hackathon from different platform](https://github.com/itgithubplatform)
-
-- 🌱 I’m currently learning **LLMOPS,cloud**
-
-- 👯 I’m looking to collaborate on [Open source and hackathon projects in AIML and web dev](https://github.com/itgithubplatform)
-
-- 💬 Ask me about **Generative AI, web dev, ML,dL,NLP**
-
-- 📫 How to reach me **benugopal2005@gmal.com**
-
-- ⚡ Fun fact **I am a Tech guy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/benug25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benug25/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/itgithubplatform">
+    <img src="https://komarev.com/ghpvc/?username=itgithubplatform&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/itgithubplatform">
+    <img src="https://img.shields.io/github/followers/itgithubplatform?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/itgithubplatform?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-68-181717?logo=github" alt="Public Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-benu.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/benug25/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/benu_123/">LeetCode</a> •
+  <a href="https://x.com/BenuKanjil55010">X / Twitter</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itgithubplatform&show_icons=true&locale=en&layout=compact" alt="itgithubplatform" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itgithubplatform&show_icons=true&locale=en" alt="itgithubplatform" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itgithubplatform&" alt="itgithubplatform" /></p>
+I'm a **B.Tech CSE (AI/ML) student and aspiring AI/ML Engineer** interested in building intelligent, scalable and practical software systems.
 
+My work sits at the intersection of:
+
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Generative AI & LLM applications
+* 🔎 NLP, RAG & AI Agents
+* 🌐 Full-Stack Web Development
+* ☁️ Cloud & MLOps
+* 📊 Data Analytics & Visualization
+* ⚙️ Backend Systems & APIs
+
+I enjoy turning ideas into working products — from **ML pipelines and AI applications to full-stack platforms and analytics systems**.
+
+> **Build → Experiment → Learn → Improve → Ship 🚀**
+
+---
+
+## 🔭 What I'm Working On
+
+* 🤖 AI/ML and Generative AI projects
+* 🌐 Full-stack applications with modern web technologies
+* 🧠 LLM, RAG and AI-agent based systems
+* ☁️ Cloud, deployment and MLOps
+* 🏆 Hackathon and open-source projects
+
+### 🌱 Currently Learning
+
+`LLMOps` `Cloud Computing` `AI Agents` `RAG` `MLOps` `System Design`
+
+### 🤝 Open to Collaborate On
+
+`AI/ML` `Generative AI` `Open Source` `Hackathons` `Full-Stack Applications`
+
+### 💬 Ask Me About
+
+`Generative AI` `Machine Learning` `Deep Learning` `NLP` `Python` `Full-Stack Development`
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI`
+
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,flask,django,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
+</p>
+
+### ☁️ Cloud / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,jenkins,git,github" />
+</p>
+
+### 📊 Data / Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,postman,figma,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚚 Factory-to-Customer Shipping Route Analytics
+
+**UM_Project**
+
+Interactive logistics analytics platform for analyzing factory-to-customer shipping efficiency using Python, Streamlit, geospatial analytics and data visualization.
+
+**Tech:** `Python` `Pandas` `NumPy` `Streamlit` `Matplotlib`
+
+<a href="https://github.com/itgithubplatform/UM_Project">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 HireWise AI
+
+**Intelligent Candidate Discovery & Ranking**
+
+AI-powered candidate discovery and ranking system combining semantic representations, vector search and intelligent matching.
+
+**Tech:** `Python` `NLP` `Embeddings` `FAISS` `AI`
+
+<a href="https://github.com/itgithubplatform/Hirewise_extra">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚖️ FairDecision AI
+
+AI-focused project exploring fair and responsible decision-making systems.
+
+**Tech:** `TypeScript` `AI` `Web Development`
+
+<a href="https://github.com/itgithubplatform/fairdecision-ai">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### ✨ Zelphine
+
+Modern agency / portfolio web platform designed for showcasing services, projects and digital experiences.
+
+**Tech:** `TypeScript` `React` `Web Development`
+
+<a href="https://github.com/itgithubplatform/Zelphine_official">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌟 Lumina
+
+AI-focused web project exploring intelligent user experiences.
+
+**Tech:** `TypeScript` `AI` `Web Development`
+
+<a href="https://github.com/itgithubplatform/Lumina">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💼 Portfolio Ecosystem
+
+A collection of animated and modern portfolio implementations exploring interactive frontend experiences.
+
+**Tech:** `TypeScript` `React` `Next.js` `Tailwind CSS`
+
+<a href="https://github.com/itgithubplatform/portfolio_website">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=itgithubplatform&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itgithubplatform&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=itgithubplatform&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itgithubplatform&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=itgithubplatform&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 📌 GitHub Snapshot
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/itgithubplatform?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/itgithubplatform?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://img.shields.io/github/commit-activity/y/itgithubplatform/UM_Project?style=for-the-badge&logo=github&label=Project%20Activity" />
+
+</p>
+
+---
+
+# 💻 What I Like Building
+
+```text
+              ┌──────────────────────────────┐
+              │        AI / ML SYSTEMS       │
+              └──────────────┬───────────────┘
+                             │
+              ┌──────────────▼───────────────┐
+              │       GENERATIVE AI          │
+              │      LLM • RAG • Agents      │
+              └──────────────┬───────────────┘
+                             │
+              ┌──────────────▼───────────────┐
+              │       FULL-STACK APPS        │
+              │   Frontend • Backend • API   │
+              └──────────────┬───────────────┘
+                             │
+              ┌──────────────▼───────────────┐
+              │       CLOUD & MLOPS          │
+              │  Deploy • Monitor • Scale    │
+              └──────────────────────────────┘
+```
+
+---
+
+# 📚 Current Focus
+
+| Area        | Focus                            |
+| ----------- | -------------------------------- |
+| 🤖 AI       | Generative AI, LLMs, Agents      |
+| 🔎 NLP      | RAG, Embeddings, Semantic Search |
+| 🧠 ML       | Model Development & Evaluation   |
+| 🌐 Web      | Full-Stack & Production Systems  |
+| ☁️ Cloud    | AWS, GCP & Deployment            |
+| ⚙️ MLOps    | Pipelines, APIs & Infrastructure |
+| 🗄️ Backend | Databases, APIs & System Design  |
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/itgithubplatform">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/benug25/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/benu_123/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://x.com/BenuKanjil55010">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://portfolio-benu.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⚡ Build intelligent systems. Solve real problems. Keep learning.
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>

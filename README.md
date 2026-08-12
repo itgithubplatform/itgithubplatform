@@ -340,21 +340,27 @@ Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Ful
 
 
 
-## 📬 Let's Connect
-
+<!-- ======================== CONTACT ======================== -->
 <div align="center">
 
-💼 **Open to:** Internships, Collaborations, Freelance Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer" width="100%" />
 
-[![Email](https://img.shields.io/badge/pramanikarpan089@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benugopal2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Arpan_Pramanik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benug25/)
-[![Portfolio](https://img.shields.io/badge/arpanpramanik.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.benugopal.dev)
+### 📬 Let's Connect
 
+💼 **Open to:** Internships, AI/ML Collaborations, Open Source, and Freelance Projects
 
-<div align="center">
+<br>
+
+[![Email](https://img.shields.io/badge/benugopal2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benugopal2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Benu_Gopal_Kanjilal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benug25/)
+[![Portfolio](https://img.shields.io/badge/portfolio_benu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-benu.vercel.app/)
+
+<br>
+
+> *⚡ "Code is like humor. When you have to explain it, it's bad."*
+
+<br>
 
 ### Thanks for visiting! If you find my work interesting, consider giving a ⭐
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer" width="100%" />

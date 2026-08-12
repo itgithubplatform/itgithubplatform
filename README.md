@@ -259,20 +259,20 @@ Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Ful
 </details>
 
 <details open>
-<summary><b>✨ Lumina+ — Advanced Generative AI Content Studio</b></summary>
+<summary><b>✨ Lumina+ — Inclusive AI-Powered Learning Platform</b></summary>
 <br>
 
-> **Next-Generation Multi-Modal Generative AI Dashboard with Real-Time Asset Generation**
+> **Accessibility-First Education Platform Built with Gemini API, Next.js, TypeScript, & Vertex AI**
 
-- 🎨 **Multi-Modal Generation**: Integrated pipelines for dynamic text synthesis, prompt optimization, and AI asset generation.
-- 🚀 **High-Performance Streaming**: Lightning-fast response delivery utilizing optimized edge functions and server-sent streaming components.
+- 🧠 **Adaptive Content Engine**: Adapts educational content for visually, hearing, and cognitively impaired learners with auto text simplification.
+- ♿ **Multimodal Accessibility**: Integrated with automated captions, TTS (Text-to-Speech) narration, and personalized learning dashboards.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <a href="https://github.com/itgithubplatform/Lumina-Plus"><img src="https://img.shields.io/badge/Check_GitHub-181717?style=flat-square&logo=github&logoColor=00F5FF" /></a>
 </p>
 

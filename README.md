@@ -36,10 +36,10 @@ Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Ful
 
 ### 🌟 What I Do
 
-- 🎓 **Academic Foundation**: Pursuing B.Tech CSE (AIML) at The Neotia University with a strong **CGPA of 9.23**.
+- 🎓 **Academic Foundation**: Pursuing B.Tech CSE (AIML) at The Neotia University with a strong **CGPA of 8.89**.
 - 🤖 **AI & ML Engineering**: Aspiring AI & ML Engineer focused on building intelligent, inclusive systems and practical automation solutions.
 - 💡 **Generative AI & Agents**: Hands-on experience with Generative AI, Multi-Agent Systems, Large Language Models (LLMs), and AI-powered workflows.
-- 📱 **Mobile AI Integration**: Android developer actively integrating on-device machine learning capabilities using TensorFlow Lite.
+- 📱 **web dev  Integration**: Full stack web  developer actively integrating on-device machine learning capabilities using TensorFlow ,sklearn ,computer vision etc.
 - 🧾 **Research & Publications**: Author of 2 research papers, including one officially presented at the ISDSI Global Conference.
 - 🏆 **Competitive Innovation**: Active participant in 10+ hackathons and 2+ ideathons focusing on domains like healthcare, education, and career-tech.
 

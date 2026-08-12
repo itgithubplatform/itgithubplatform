@@ -1,43 +1,148 @@
+<!-- ========================================================= -->
+<!--                 BENU GOPAL KANJILAL                       -->
+<!--              PROFESSIONAL GITHUB PROFILE                  -->
+<!-- ========================================================= -->
+
+
+<!-- ========================== HERO ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Arpan%20Pramanik&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF2D95&height=220&section=header&text=Benu%20Gopal%20Kanjilal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+%7C+AI%2FML+%7C+Cloud;Open+Source+Contributor;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benug25/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benugopal2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itgithubplatform)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://benugopal.dev/)
+<a href="https://github.com/itgithubplatform">
 
-![Profile Views](https://komarev.com/ghpvc/?username=itgithubplatform&color=0891b2&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%7C+Generative+AI+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%9A%80;Build+%E2%86%92+Experiment+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing SVG"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/itgithubplatform">
+
+<img src="https://komarev.com/ghpvc/?username=itgithubplatform&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/itgithubplatform?tab=repositories">
+
+<img src="https://img.shields.io/badge/REPOSITORIES-68-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/itgithubplatform?tab=followers">
+
+<img src="https://img.shields.io/github/followers/itgithubplatform?style=for-the-badge&label=FOLLOWERS&color=FF2D95&logo=github"/>
+
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<!-- ========================= SOCIAL ======================== -->
 
 <div align="center">
 
-🎓 **B.Tech CSE (AIML)** @ The Neotia University *(CGPA: 9.42)* &nbsp;|&nbsp; 📍 West Bengal, India  
-💼 **AI/ML Research Intern** @ NIT Durgapur &nbsp;|&nbsp; 🔬 **4 Published Papers (IEEE & Springer)**
+<a href="https://github.com/itgithubplatform">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/benug25/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://leetcode.com/u/benu_123/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<a href="https://x.com/BenuKanjil55010">
+
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
+</a>
+
+<a href="https://portfolio-benu.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+<div align="center">
+
+# 🧠 `WHO_AM_I`
 
 </div>
 
 <br>
 
-Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Full-Stack Developer** focused on building **SaaS AI applications** that bridge cutting-edge artificial intelligence with scalable, enterprise-grade cloud architecture.
+<table width="100%">
 
-### 🌟 What I Do
+<tr>
 
-- 🚀 **Production-Grade SaaS AI**: Engineering end-to-end AI SaaS platforms featuring persistent vector stores (`pgvector`/`FAISS`), multi-LLM failover routing, and real-time event streaming (`SSE`).
-- 🧠 **Generative AI & Agentic Workflows**: Architecting production RAG pipelines, autonomous AI agents, contextual Q&A engines, and document intelligence with **LangChain, Groq & Ollama**.
-- 🔬 **Explainable AI (XAI) & Computer Vision**: Developing custom deep learning architectures (multi-headed CNNs, EfficientNet + RBF-SVM) with **Grad-CAM interpretability** for real-world inspection.
-- ⚡ **Scalable Full-Stack Engineering**: Building high-performance, responsive web applications using **Next.js, React, Node.js, Express & FastAPI** with 3-tier authorization.
-- 📊 **Enterprise Observability & Security**: Implementing production-ready distributed monitoring, system tracing, and structured logging with **OpenTelemetry, Prometheus & Pino**.
-- ☁️ **Cloud & MLOps Infrastructure**: Deploying scalable containerized & serverless microservices across **AWS (EC2/S3/Lambda), Docker, Vercel & Railway**.
+<!-- ================= LEFT COLUMN ================= -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<td width="58%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+
+I'm **Benu Gopal Kanjilal**, a B.Tech CSE (AI/ML) student and aspiring **AI/ML Engineer** passionate about building intelligent, scalable and practical software systems.
+
+I enjoy working across the complete engineering lifecycle:
+
+**Idea → Data → Model → Backend → Frontend → Cloud → Deployment**
+
+My primary interests include:
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Generative AI & LLM Applications
+- 🔎 NLP, RAG & Semantic Search
+- 🌐 Full-Stack Development
+- ☁️ Cloud Computing & MLOps
+- 📊 Data Analytics & Visualization
+- ⚙️ Backend Engineering
+- 🏆 Hackathons & Open Source
+
+<br>
+
+> **I don't just want to learn technology — I want to build with it. 🚀**
+
+</td>
+
+
+<!-- ================= RIGHT COLUMN ================= -->
+
+<td width="42%" valign="top">
+
+<h3>⚡ Developer Snapshot</h3>
+
+```text
+╭──────────────────────────────╮
+│       BENU.GOPAL             │
+├──────────────────────────────┤
+│ 🎓 CSE (AI/ML)               │
+│ 🤖 AI / ML                   │
+│ 🧠 Generative AI             │
+│ 🌐 Full-Stack                │
+│ ☁️ Cloud / MLOps             │
+│ 🔎 NLP / RAG                 │
+│ 🏗️ System Design            │
+│ 🚀 Product Building          │
+╰──────────────────────────────╯
 
 ## 🛠️ Tech Stack
 

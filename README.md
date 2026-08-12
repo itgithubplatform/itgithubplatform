@@ -1,4 +1,49 @@
+<!-- ========================================================= -->
+<!--                   BENU GOPAL KANJILAL                     -->
+<!--               PROFESSIONAL GITHUB PROFILE                 -->
+<!-- ========================================================= -->
 
+<!-- ========================== HERO ========================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Benu%20Gopal%20Kanjilal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+%7C+AI%2FML+%7C+Cloud;Open+Source+Contributor;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benug25/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benugopal2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itgithubplatform)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-benu.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=itgithubplatform&color=0891b2&style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<div align="center">
+
+🎓 **B.Tech CSE (AI/ML)** &nbsp;|&nbsp; 📍 West Bengal, India  
+💼 **Aspiring AI/ML Engineer & Full-Stack Developer**
+
+</div>
+
+<br>
+
+Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Full-Stack Developer** focused on building **production-grade SaaS AI applications** that bridge cutting-edge artificial intelligence with scalable, enterprise-grade cloud architecture.
+
+### 🌟 What I Do
+
+- 🚀 **Production-Grade SaaS AI**: Engineering end-to-end AI SaaS platforms featuring persistent vector stores (`pgvector`/`FAISS`), multi-LLM failover routing, and real-time event streaming (`SSE`).
+- 🧠 **Generative AI & Agentic Workflows**: Architecting production RAG pipelines, autonomous AI agents, contextual Q&A engines, and document intelligence with **LangChain, Groq & Ollama**.
+- 🔬 **Explainable AI (XAI) & Computer Vision**: Developing custom deep learning architectures (multi-headed CNNs, EfficientNet) with interpretability for real-world inspection.
+- ⚡ **Scalable Full-Stack Engineering**: Building high-performance, responsive web applications using **Next.js, React, Node.js, Express & FastAPI** with secure authentication.
+- 📊 **Enterprise Observability & Security**: Implementing production-ready distributed monitoring, system tracing, and structured logging with **OpenTelemetry, Prometheus & Pino**.
+- ☁️ **Cloud & MLOps Infrastructure**: Deploying scalable containerized & serverless microservices across **AWS, Docker, Vercel & Railway**.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 

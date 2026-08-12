@@ -312,7 +312,7 @@ Hey there! 👋 I'm **Benu Gopal Kanjilal**, a passionate **AI/ML Engineer & Ful
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <a href="https://github.com/itgithubplatform/Smart-Outfit-App"><img src="https://img.shields.io/badge/Check_GitHub-181717?style=flat-square&logo=github&logoColor=00F5FF" /></a>
+  <a href="https://github.com/itgithubplatform/smart_outfit_app.git/Smart-Outfit-App"><img src="https://img.shields.io/badge/Check_GitHub-181717?style=flat-square&logo=github&logoColor=00F5FF" /></a>
 </p>
 
 </details>

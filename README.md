@@ -25,7 +25,7 @@
 
 <div align="center">
 
-🎓 **B.Tech CSE (AIML)** @ The Neotia University *(CGPA: 9.23)* &nbsp;|&nbsp; 📍 West Bengal, India  
+🎓 **B.Tech CSE (AIML)** @ The Neotia University * &nbsp;|&nbsp; 📍 West Bengal, India  
 💼 **Aspiring AI & ML Engineer**
 
 </div>

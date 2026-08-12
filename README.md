@@ -1,9 +1,10 @@
 <!-- ========================================================= -->
-<!--                    BENU GOPAL KANJILAL                    -->
-<!--                  GITHUB PROFILE README                    -->
+<!--                 BENU GOPAL KANJILAL                      -->
+<!--              PROFESSIONAL GITHUB PROFILE                 -->
 <!-- ========================================================= -->
 
-<!-- ========================= HERO ========================== -->
+
+<!-- ========================== HERO ========================= -->
 
 <div align="center">
 
@@ -13,7 +14,7 @@
 
 <a href="https://github.com/itgithubplatform">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%7C+Generative+AI+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%9A%80;Build+%E2%86%92+Experiment+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%7C+Generative+AI+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%9A%80;Build+%E2%86%92+Experiment+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing SVG"/>
 
 </a>
 
@@ -33,7 +34,6 @@
 
 </div>
 
-<br>
 
 <!-- ========================= SOCIAL ======================== -->
 
@@ -61,7 +61,6 @@
 
 </div>
 
-<br>
 
 ---
 
@@ -69,74 +68,54 @@
 
 <div align="center">
 
-# 🧠 `whoami`
+# 🧠 `WHO_AM_I`
 
 </div>
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="58%" valign="top">
 
 ### 👨‍💻 About Me
 
-I'm a **B.Tech CSE (AI/ML) student and aspiring AI/ML Engineer** passionate about building intelligent, scalable and practical software systems.
+I'm **Benu Gopal Kanjilal**, a B.Tech CSE (AI/ML) student and aspiring **AI/ML Engineer** passionate about building intelligent, scalable and practical software systems.
 
 I enjoy working across the complete engineering lifecycle:
 
 **Idea → Data → Model → Backend → Frontend → Cloud → Deployment**
 
-My interests include:
+My primary interests include:
 
 - 🤖 Machine Learning & Deep Learning
 - 🧠 Generative AI & LLM Applications
 - 🔎 NLP, RAG & Semantic Search
 - 🌐 Full-Stack Development
-- ☁️ Cloud & MLOps
-- 📊 Data Analytics
+- ☁️ Cloud Computing & MLOps
+- 📊 Data Analytics & Visualization
 - ⚙️ Backend Engineering
 - 🏆 Hackathons & Open Source
 
-</td>
+<br>
 
-<td width="45%" align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api?title=My%20Engineering%20Stack&align=center&titleAlign=center&fontSize=18&fontColor=00F5FF&iconSize=32&lineHeight=38&theme=dark&line1=python,Python;typescript,TypeScript;javascript,JavaScript&line2=tensorflow,TensorFlow;pytorch,PyTorch;react,React&line3=nodejs,Node.js;nextdotjs,Next.js;docker,Docker" />
+> **I don't just want to learn technology — I want to build with it. 🚀**
 
 </td>
-</tr>
-</table>
 
----
+<td width="42%" valign="top">
 
-<!-- ====================== CURRENT FOCUS ==================== -->
-
-<div align="center">
-
-# ⚡ `CURRENT_FOCUS`
-
-<img src="https://img.shields.io/badge/AI%2FML-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENAI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF2D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-00D26A?style=for-the-badge"/>
-
-</div>
+### ⚡ Developer Snapshot
 
 ```text
-                    ┌──────────────────────┐
-                    │    AI / ML ENGINE    │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ↓                 ↓                 ↓
-       MACHINE LEARNING      GENAI             NLP
-             │                 │                 │
-      Deep Learning           LLMs              RAG
-      Computer Vision         Agents            Embeddings
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ↓
-                         MLOps / LLMOps
-                               ↓
-                        Cloud Deployment
-                               ↓
-                     Production Systems 🚀
+╭──────────────────────────────╮
+│       BENU.GOPAL             │
+├──────────────────────────────┤
+│ 🎓 CSE (AI/ML)               │
+│ 🤖 AI / ML                   │
+│ 🧠 Generative AI             │
+│ 🌐 Full-Stack                │
+│ ☁️ Cloud / MLOps             │
+│ 🔎 NLP / RAG                 │
+│ 🏗️ System Design            │
+│ 🚀 Product Building          │
+╰──────────────────────────────╯
